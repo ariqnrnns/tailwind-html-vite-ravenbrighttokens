@@ -27,7 +27,7 @@ Free HTML Tailwind CSS Landing Page Template with Vite & Ravenbright Tokens (CSS
 
 <div align="center">
 
-<a href="https://figma.com/@ariqnarasaputra">
+<a href="https://github.com/ariqnrnns/tailwind-html-vite-ravenbrighttokens">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github releases">
 </a>
 
@@ -80,10 +80,10 @@ npm run dev
 
 Still have doubt? Don't be, explore & play around with Ravenbright Design Tokens live demo on Codepen.
 
-## View demo on Netlify 👇
+## View demo on Codepen 👇
 
 <a href="https://codepen.io/ariqnarasaputra">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Explore UI collections">
+<img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Explore UI collections">
 </a>
 
 </div>
