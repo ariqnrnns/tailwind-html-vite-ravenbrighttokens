@@ -7,10 +7,10 @@
 <div align="center">
 
 [![Known Vulnerabilities](https://snyk.io/test/github/ariqnrnns/tailwind-html-vite-ravenbrighttokens/badge.svg)](https://snyk.io/test/github/ariqnrnns/tailwind-html-vite-ravenbrighttokens)
-[![Build CI](https://github.com/ariqnrnns/tailwind-html-vite-ravenbrighttokens/actions/workflows/buildcss.yml/badge.svg)](https://github.com/ariqnrnns/tailwind-html-vite-ravenbrighttokens/actions/workflows/buildcss.yml)
+[![Build CI](https://github.com/ariqnrnns/tailwind-html-vite-ravenbrighttokens/actions/workflows/build.yml/badge.svg)](https://github.com/ariqnrnns/tailwind-html-vite-ravenbrighttokens/actions/workflows/build.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ariqnrnns/tailwind-html-vite-ravenbrighttokens)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ariqnrnns/tailwind-html-vite-ravenbrighttokens)
-[![GitHub license](https://badgen.net/github/license/ariqnrnns/tailwind-html-vite-ravenbrighttokens)](https://github.com/ariqnrnns/tailwind-html-vite-ravenbrighttokens/blob/main/LICENSE.md)
+![GitHub](https://img.shields.io/github/license/ariqnrnns/tailwind-html-vite-ravenbrighttokens)
 [![Ravenbrightcss.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://ravenbrightcss.com)
 
 </div>
