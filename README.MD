@@ -78,12 +78,12 @@ npm run dev
 
 <div align="center">
 
-Still have doubt? Don't be, explore & play around with Ravenbright Design Tokens live demo on Codepen.
+Still have doubt? Don't be, explore & play around with Ravenbright Design Tokens live demo on TailwindPlay.
 
-## View demo on Codepen 👇
+## View demo on TailwindPlay 👇
 
-<a href="https://codepen.io/ariqnarasaputra">
-<img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="Explore UI collections">
+<a href="https://play.tailwindcss.com/KTfbzjQtfa?layout=horizontal">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
 </a>
 
 </div>
